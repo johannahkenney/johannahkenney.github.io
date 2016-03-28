@@ -1,12 +1,11 @@
 
-title{
+title {
 	font-size: 45px;
 	font-family: Helvetica, sans-serif;
 	font-weight: 800px;
-	margin: 
-
 }
-body{
+
+body {
 	text-align: center;
 	list-style-type: none;
 	color: black;
@@ -14,12 +13,10 @@ body{
 	font-family: Helvetica;
 	background: url("http://www.blogs.jbs.cam.ac.uk/socialinnovation/wp-content/uploads/2015/06/2015_csiblog_embracing-passion-creativity-883x432.jpg");
 	background-size: cover;
-	opacity: .75;
-	margin-left: 3in;
-	margin-right: 3in;
+	opacity: .5;
 }
 
-h3{
+h3 {
 	font-size: 32px;
 	font-family: Helvetica, sans-serif;
 	font font-weight: 700;
@@ -38,7 +35,7 @@ text-align: center;
 	font-family: Helvetica, sans-serif;
 
 }
-hr{
+hr {
 	width:300;
 	color: gray;
 }
@@ -46,8 +43,4 @@ hr{
 ul {
     text-align: center;
     list-style-type: none;
-}
-
-div{	
-background: rgba(0 , 0 , 0, .75);
 }
