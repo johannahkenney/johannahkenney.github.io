@@ -1,12 +1,13 @@
 body{
 	text-align: justify;
-	list-style-type: none
+	list-style-type: none;
 	color: gray;
 	font-size: 14px;
 	font-family: Helvetica;
-	background: url("http://thumbs.dreamstime.com/z/left-brain-right-brain-symbol-creativity-sign-creative-idea-concept-background-design-poster-flyer-cover-brochure-business-36190725.jpg");
+	background: url("http://www.blogs.jbs.cam.ac.uk/socialinnovation/wp-content/uploads/2015/06/2015_csiblog_embracing-passion-creativity-883x432.jpg");
 	background-size: cover;
 }
+
 h1 {
 font-family: Helventica;
 font-weight: 600;
