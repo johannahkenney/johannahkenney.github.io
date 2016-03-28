@@ -15,6 +15,12 @@ body{
 	background-size: cover;
 }
 
+h3{
+	font-size: 28px;
+	font-family: Helvetica, sans-serif;
+	font font-weight: 700;
+}
+
 h1 {
 font-family: Helvetica, sans-serif;
 font-weight: 600;
