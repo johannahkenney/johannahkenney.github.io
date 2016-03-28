@@ -3,6 +3,9 @@ title{
 	font-size: 45px;
 	font-family: Helvetica, sans-serif;
 	font-weight: 800px;
+	border-style: solid;
+	border-bottom-style:solid;
+	border-bottom-color: #ff0000;
 
 }
 body{
@@ -13,6 +16,8 @@ body{
 	font-family: Helvetica;
 	background: url("http://www.blogs.jbs.cam.ac.uk/socialinnovation/wp-content/uploads/2015/06/2015_csiblog_embracing-passion-creativity-883x432.jpg");
 	background-size: cover;
+	margin-left: 1.5in;
+	margin-right: 1.5in;
 }
 
 h3{
@@ -36,4 +41,9 @@ text-align: center;
 }
 hr{
 	width:300;
+}
+
+ul {
+    text-align: center;
+    list-style-type: none;
 }
