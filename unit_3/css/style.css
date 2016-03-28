@@ -1,6 +1,6 @@
 
 title{
-	font-size: 30px;
+	font-size: 45px;
 	font-family: Helvetica, sans-serif;
 	font-weight: 800px;
 
@@ -16,7 +16,7 @@ body{
 }
 
 h3{
-	font-size: 28px;
+	font-size: 32px;
 	font-family: Helvetica, sans-serif;
 	font font-weight: 700;
 }
@@ -28,7 +28,7 @@ font-size: 26px;
 text-align: center;
 }
 
-p{
+#contact{
 	font-size:14px
 	font-weight: 600;
 	font-family: Helvetica, sans-serif;
