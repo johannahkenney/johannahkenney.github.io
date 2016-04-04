@@ -1,10 +1,10 @@
 
-@import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
+@import url(https://fonts.googleapis.com/css?family=PT+Sans:700);
 @import url(https://fonts.googleapis.com/css?family=Lora);
 
 title {
 	font-size: 45px;
-	font-family: 'PT+Sans:700' , sans-serif;
+	font-family: 'PT+Sans:700', sans-serif;
 	font-weight: 800px;
 }
 
@@ -13,7 +13,7 @@ body {
 	list-style-type: none;
 	color: black;
 	font-size: 18px;
-	font-family: "Lora';
+	font-family: 'Lora';
 	background: url("http://lifepotential.org/wp-content/uploads/2015/12/Creativity_Bg.jpg");
 	background-size: cover;
 }
