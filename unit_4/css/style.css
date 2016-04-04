@@ -1,0 +1,49 @@
+
+@import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
+@import url(https://fonts.googleapis.com/css?family=Lora);
+
+title {
+	font-size: 45px;
+	font-family: 'PT+Sans:700' , sans-serif;
+	font-weight: 800px;
+}
+
+body {
+	text-align: center;
+	list-style-type: none;
+	color: black;
+	font-size: 18px;
+	font-family: "Lora';
+	background: url("http://www.blogs.jbs.cam.ac.uk/socialinnovation/wp-content/uploads/2015/06/2015_csiblog_embracing-passion-creativity-883x432.jpg");
+	background-size: cover;
+}
+
+h1 {
+	font-size: 32px;
+	font-family: 'PT+Sants:700', sans-serif;
+	font font-weight: 700;
+}
+
+h3 {
+font-family: 'PT+Sants:700', sans-serif;
+font-weight: 600;
+font-size: 26px;
+text-align: center;
+}
+
+#contact{
+	font-size:14px
+	font-weight: 600;
+	font-family: 'Lora', sans-serif;
+
+}
+hr {
+	width:300;
+	color: gray;
+}
+
+ul {
+    text-align: center;
+    list-style-type: none;
+    font-family: 'Lora';
+}
